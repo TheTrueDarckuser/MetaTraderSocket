@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\ilryz\source\repos\MetaTraderSocket\MetaTraderSocket\dllmain.cpp(11,18): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\ilryz\source\repos\MetaTraderSocket\MetaTraderSocket\dllmain.cpp(24,29): warning C4244: return: преобразование "ULONGLONG" в "int", возможна потеря данных
+     Создается библиотека C:\Users\ilryz\source\repos\MetaTraderSocket\Release\MetaTraderSocket.lib и объект C:\Users\ilryz\source\repos\MetaTraderSocket\Release\MetaTraderSocket.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  MetaTraderSocket.vcxproj -> C:\Users\ilryz\source\repos\MetaTraderSocket\Release\MetaTraderSocket.dll

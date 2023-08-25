@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  LINK : отсутствует база данных C:\Users\ilryz\AppData\Roaming\MetaQuotes\Terminal\B6FAE8DFCA5FCBDE2B96D33C05EF5916\MQL5\Libraries\MetaTraderSocket.pdb программы; выполняется полная компоновка
+     Создается библиотека ..\..\..\..\AppData\Roaming\MetaQuotes\Terminal\B6FAE8DFCA5FCBDE2B96D33C05EF5916\MQL5\Libraries\MetaTraderSocket.lib и объект ..\..\..\..\AppData\Roaming\MetaQuotes\Terminal\B6FAE8DFCA5FCBDE2B96D33C05EF5916\MQL5\Libraries\MetaTraderSocket.exp
+  MetaTraderSocket.vcxproj -> C:\Users\ilryz\AppData\Roaming\MetaQuotes\Terminal\B6FAE8DFCA5FCBDE2B96D33C05EF5916\MQL5\Libraries\MetaTraderSocket.dll
